@@ -53,6 +53,10 @@ This roadmap outlines the key features and development stages for `tools.michael
 
 │ │ ├── sidebar_toggle.js 
 
+│ │ ├── sidebar_toggle_sub.js 
+
+│ │ ├── sidebar_closeall_sub.js 
+
 │ │ ├── cookies_popup.js 
 
 │ ├── /php/ # Backend logic 
