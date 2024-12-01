@@ -11,9 +11,7 @@ This roadmap outlines the key features and development stages for `tools.michael
 
 /tools.michaelninder.de/ 
 │ ├── index.php # The main homepage of the site 
-
 ├── /public/ # Public-facing entry points 
-
 │ ├── index.php # Redirects or loads public tools 
 
 │ ├── /tools/ # Tool categories 
