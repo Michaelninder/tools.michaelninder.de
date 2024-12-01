@@ -124,6 +124,7 @@ This roadmap outlines the key features and development stages for `tools.michael
 ---
 
 ## Known Issues
+- Broken styles
 - Language switcher refreshes page instead of updating dynamically.
 - Sidebar animation needs optimization for slower devices.
 
