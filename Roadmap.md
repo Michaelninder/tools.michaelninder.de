@@ -10,6 +10,7 @@ This roadmap outlines the key features and development stages for `tools.michael
 ### Project Layout
 
 /tools.michaelninder.de/ 
+
 │ ├── index.php # The main homepage of the site that redirects to /public
 
 ├── /public/ # Public-facing entry points 
