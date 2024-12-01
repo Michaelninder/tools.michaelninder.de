@@ -11,33 +11,62 @@ This roadmap outlines the key features and development stages for `tools.michael
 
 /tools.michaelninder.de/ 
 │ ├── index.php # The main homepage of the site 
+
 ├── /public/ # Public-facing entry points 
+
 │ ├── index.php # Redirects or loads public tools 
+
 │ ├── /tools/ # Tool categories 
+
 │ ├── dns/.php # DNS tools (e.g., record lookup) 
+
+
 │ ├── pinger/.php # Server pinger tools 
+
 │ ├── minecraft/*.php # Minecraft utilities 
+
 │ ├── /includes/ # Frontend and UI components 
+
 │ ├── header.php # Header template 
+
 │ ├── footer.php # Footer template 
+
 │ ├── sidebar.php # Sidebar for navigation 
+
 │ ├── navbar.php # Navbar for global navigation 
+
 │ ├── tool-header.php # Page-specific header for tools 
+
 │ ├── head.php # Common <head> elements 
+
 │ ├── /assets/ # Backend and static resources 
+
 │ ├── /css/ # CSS for styling 
+
 │ │ ├── navbar.css 
+
 │ │ ├── cookies.css 
+
 │ │ ├── sidebar.css 
+
 │ ├── /js/ # JavaScript files 
+
 │ │ ├── sidebar_toggle.js 
+
 │ │ ├── cookies_popup.js 
+
 │ ├── /php/ # Backend logic 
+
 │ │ ├── config.php 
+
 │ │ ├── database.php 
+
 │ │ ├── cookies_process.php 
+
 │ │ ├── functions.php 
+
 │ └── /images/ # Icons and other visuals
+
 ---
 
 ## Features and Tools
